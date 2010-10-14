@@ -1,0 +1,10 @@
+[
+	{
+		"host": "dev",
+		"nickname": "Development Server"
+	},
+	{
+		"host": "stage",
+		"nickname": "Staging Server"
+	}
+]
